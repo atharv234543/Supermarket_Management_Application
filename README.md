@@ -1,3 +1,4 @@
-# Supermarket_Management_Application
-In this repository , there is the desktop application of supermarket management .
-In this application Javafx is used along with Scenebuilder , Java and Mysql. The data of the customers and staff can be stored . And also the data of various items in the supermarket(such as price,quantity,etc) can be stored along with employee details and customer details. It is the management app that will be used by the cashier or admin of the supermarket .
+This repository contains a desktop-based Supermarket Management System developed using JavaFX, SceneBuilder, Java, and MySQL.
+The application allows efficient storage and management of key data related to customers, staff, and inventory — including item prices, quantities, employee information, and customer profiles.
+
+Designed for use by cashiers or supermarket administrators, this tool simplifies daily operations such as inventory tracking, billing, and employee management, ensuring smooth and organized store workflows.
